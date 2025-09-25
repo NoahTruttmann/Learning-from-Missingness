@@ -46,8 +46,6 @@ Rocco Pio Lorenzo Ventruto [https://github.com/roccov]
 
 Tallula Graber [https://github.com/Tallulaa]
 
-Noah Louis Truttmann [https://github.com/NoahTruttmann]
-
 Piotr Kleymenov [https://github.com/PiotrKley259]
 
 This repository is a personal, cleaned-up version of the original group project, with additional comments and refinements for portfolio purposes.
